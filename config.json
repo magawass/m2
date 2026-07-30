@@ -1,0 +1,180 @@
+{
+  "term": "3",
+  "year": "2025",
+  "generalComment": "Excellent effort. Keep up the hard work.",
+  "nextTermOpens": "",
+  "fees": "",
+  "gradeKeyLower": {
+    "A": 80,
+    "B": 65,
+    "C": 55,
+    "D": 40,
+    "F": 0
+  },
+  "gradeKeyUpper": {
+    "1": 80,
+    "2": 75,
+    "3": 70,
+    "4": 65,
+    "5": 60,
+    "6": 55,
+    "7": 45,
+    "8": 35,
+    "9": 0
+  },
+  "gradeKeys": {
+    "form1": {
+      "A": 80,
+      "B": 65,
+      "C": 55,
+      "D": 40,
+      "F": 0
+    },
+    "form2": {
+      "A": 80,
+      "B": 65,
+      "C": 55,
+      "D": 40,
+      "F": 0
+    },
+    "form3": {
+      "1": 80,
+      "2": 75,
+      "3": 70,
+      "4": 65,
+      "5": 60,
+      "6": 55,
+      "7": 45,
+      "8": 35,
+      "9": 0
+    },
+    "form4": {
+      "1": 80,
+      "2": 75,
+      "3": 70,
+      "4": 65,
+      "5": 60,
+      "6": 55,
+      "7": 45,
+      "8": 35,
+      "9": 0
+    }
+  },
+  "teachers": {
+    "form1": {
+      "Agriculture": "-",
+      "Bible Knowledge": "-",
+      "Biology": "-",
+      "Chemistry": "-",
+      "Chichewa": "-",
+      "English": "-",
+      "Geography": "-",
+      "History": "-",
+      "Mathematics": "-",
+      "Physics": "-",
+      "Social/Life": "-"
+    },
+    "form2": {
+      "Agriculture": "-",
+      "Bible Knowledge": "-",
+      "Biology": "-",
+      "Chemistry": "-",
+      "Chichewa": "-",
+      "English": "-",
+      "Geography": "-",
+      "History": "-",
+      "Mathematics": "-",
+      "Physics": "-",
+      "Social/Life": "-"
+    },
+    "form3": {
+      "Agriculture": "-",
+      "Bible Knowledge": "-",
+      "Biology": "-",
+      "Chemistry": "-",
+      "Chichewa": "-",
+      "English": "-",
+      "Geography": "-",
+      "History": "-",
+      "Mathematics": "-",
+      "Physics": "-",
+      "Social/Life": "-"
+    },
+    "form4": {
+      "Agriculture": "-",
+      "Bible Knowledge": "-",
+      "Biology": "-",
+      "Chemistry": "-",
+      "Chichewa": "-",
+      "English": "-",
+      "Geography": "-",
+      "History": "-",
+      "Mathematics": "-",
+      "Physics": "-",
+      "Social/Life": "-"
+    }
+  },
+  "hiddenSubjects": {
+    "form1": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "English": false,
+      "Geography": false,
+      "History": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    },
+    "form2": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "English": false,
+      "Geography": false,
+      "History": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    },
+    "form3": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "English": false,
+      "Geography": false,
+      "History": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    },
+    "form4": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "English": false,
+      "Geography": false,
+      "History": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    }
+  },
+  "locks": {},
+  "passwordEnabled": true,
+  "sneColumnVisible": true,
+  "sexColumnVisible": false,
+  "setupPassword": "1972",
+  "studentPasswords": {},
+  "stampImage": "",
+  "stampDate": "",
+  "stampEnabled": true
+}
